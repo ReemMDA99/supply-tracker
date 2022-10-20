@@ -1,0 +1,22 @@
+{
+  "name": "supply-tracker",
+  "version": "1.0.0",
+  "description": "What jQuery is used for?\r jQuery is the most popular library on the web today. It's a library of JavaScript functions that make it easy for webpage developers to do common tasks-- like manipulating the webpage, responding to user events, getting data from their servers, building effects and animations, and much more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReemMDA99/supply-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReemMDA99/supply-tracker/issues"
+  },
+  "homepage": "https://github.com/ReemMDA99/supply-tracker#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
