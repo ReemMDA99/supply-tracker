@@ -1,0 +1,24 @@
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+body {
+    margin:10%
+}
+input{
+    border-style: solid;
+}
+button {
+    background-color: #664caf; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    
+}
+button:hover{background-color:orange;}
+
+button:focus{background-color:red;}
